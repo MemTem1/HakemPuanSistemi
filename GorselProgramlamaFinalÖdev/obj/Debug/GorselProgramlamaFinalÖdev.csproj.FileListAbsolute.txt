@@ -1,0 +1,13 @@
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\bin\Debug\GorselProgramlamaFinalÖdev.exe.config
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\bin\Debug\GorselProgramlamaFinalÖdev.exe
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\bin\Debug\GorselProgramlamaFinalÖdev.pdb
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.csproj.AssemblyReference.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.Form1.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.FormVeriGir.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.Properties.Resources.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.csproj.GenerateResource.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.csproj.CoreCompileInputs.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.exe
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.pdb
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.FormSonucGoster.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\GorselProgramlamaFinalÖdev\GorselProgramlamaFinalÖdev\obj\Debug\GorselProgramlamaFinalÖdev.FormBilgiKart.resources
